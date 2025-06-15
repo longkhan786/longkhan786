@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Long Khan
 
-📍 Barmer, Rajasthan  
 📧 [longkhandhareja78@gmail.com](mailto:longkhandhareja78@gmail.com)  
 📞 +91 7878032597  
 🔗 [LinkedIn](https://www.linkedin.com/in/long-khan-6b270120a/) • [GitHub](https://github.com/longkhan786)
