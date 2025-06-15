@@ -1,56 +1,43 @@
 # 👋 Hi, I'm Long Khan
 
-I'm a **full-stack developer** with a strong passion for building scalable backend systems, modern frontend interfaces, and learning DevOps practices. I'm currently transitioning from **Laravel/PHP** to **Golang**, and actively exploring the world of cloud-native development and infrastructure automation.
+📧 [longkhandhareja78@gmail.com](mailto:longkhandhareja78@gmail.com)  
+📞 +91 7878032597  
+🔗 [LinkedIn](https://www.linkedin.com/in/long-khan-6b270120a/) • [GitHub](https://github.com/longkhan786)
 
 ---
 
-## 🚀 Tech Stack
+## 🧑‍💻 About Me
 
-**Languages & Frameworks**
-- 🐘 PHP (Laravel, CodeIgniter 3)
-- 🔵 Golang (Gin, Fiber)
-- 🌐 JavaScript / TypeScript (Vue.js, Nuxt.js, React.js, Next.js)
-- ☕ Java, C++
-  
-**Databases**
-- 🐬 MySQL, MariaDB
-- 🧠 Redis
-
-**Dev Tools**
-- 🐳 Docker, Swagger, Git, GitHub
-- 🔧 Jira, Confluence
+I'm a **performance-focused SaaS/PaaS developer** with over **3 years of experience**. I love building high-performance, scalable systems and crafting clean, maintainable frontend interfaces. My core strengths lie in Go backend development, full-stack web applications, and DevOps tooling.
 
 ---
 
-## 🧑‍💻 Projects
+## 🛠️ Tech Stack
 
-### [GoChat 🟡](https://github.com/longkhan786/chat-app)
-A real-time chat application built in **Go (Gin)** with plans for:
-- ✅ JWT-based authentication
-- 📩 Instant messaging
-- 📹 Video calling (coming soon)
-- 📸 User stories (coming soon)
+**Frontend:**  
+React.js, Next.js, Vue.js, Nuxt.js, Tailwind CSS, TypeScript, Redux, Pinia, Vuetify  
 
-> Actively developing backend scalability & frontend UI in React.
+**Backend:**  
+Go (Gin, GORM, Viper), Laravel, Node.js, Express.js, PHP, CodeIgniter (3/4), C++, Java  
 
----
+**Databases:**  
+MySQL, MariaDB, Redis  
 
-## 🎯 Goals (2025)
+**Tools & Platforms:**  
+Docker, AWS, Git, GitHub, Swagger, Sentry, SonarQube, Blackfire  
 
-- ✅ Master Go backend development
-- 🏗️ Build production-grade apps with DevOps workflows
-- ☁️ Learn and implement CI/CD, Docker, and cloud infrastructure (AWS/GCP)
-- 📚 Deepen my DSA skills with Go
+**Other Skills:**  
+Domain-Driven Design (DDD), WebSockets, Query Optimization, Caching, Multi-Tenancy, Unit Testing, Monitoring  
 
 ---
 
-## 📬 Let's Connect
+## 📈 Current Focus
 
-- 💼 [LinkedIn](https://linkedin.com) (coming soon)
-- 📧 Email: coming soon
-- 🌐 Portfolio: coming soon
+- Building production-grade applications with Go
+- Enhancing performance using Redis, caching, and query optimization
+- Learning DevOps: CI/CD, containerization, infrastructure monitoring
+- Deepening DSA knowledge with Go
 
 ---
 
-_“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
-
+> _"Code is like humor. When you have to explain it, it’s bad."_ – Cory House
